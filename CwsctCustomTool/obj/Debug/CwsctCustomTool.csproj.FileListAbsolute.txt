@@ -1,0 +1,13 @@
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\CwsctCustomTool.exe.config
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\CwsctCustomTool.exe
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\CwsctCustomTool.pdb
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\obj\Debug\CwsctCustomTool.csproj.AssemblyReference.cache
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\obj\Debug\CwsctCustomTool.csproj.CoreCompileInputs.cache
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\obj\Debug\CwsctCustomTool.csproj.CopyComplete
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\obj\Debug\CwsctCustomTool.exe
+C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\obj\Debug\CwsctCustomTool.pdb
