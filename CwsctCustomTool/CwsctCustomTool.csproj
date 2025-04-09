@@ -51,14 +51,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\d.zemeckas\source\repos\CwsctCustomTool\CwsctCustomTool\q_ws.cs">
-      <DependentUpon>q_ws.txt</DependentUpon>
-    </Compile>
     <Compile Include="g.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="q_con_nosettings.cs" />
     <Compile Include="q_extensions.cs" />
+    <Compile Include="q_ws.cs">
+      <DependentUpon>q_ws.txt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

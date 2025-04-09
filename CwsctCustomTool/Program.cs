@@ -68,7 +68,7 @@ namespace CwsctCustomTool
      if (inputfilename != "")
       metadataList.Add(new KeyValuePair<string, string>("DependentUpon", Path.GetFileName(inputfilename)));
      //Add file to project
-     p.AddItem("Compile", outputfilename, metadataList);
+     p.AddItem("Compile", "q_ws.cs", metadataList);
      p.Save();
     }
    }
